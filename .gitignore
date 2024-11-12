@@ -1,0 +1,6 @@
+/heaptrack*
+/*build*
+/deps
+/.idea
+/.clang-tidy
+/.vscode
